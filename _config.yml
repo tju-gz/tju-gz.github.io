@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Donghui Dai"
-description              : "Donghui Dai"
+description              : "PhD candidate in computer science. Focusing on IoT security, wireless systems."
 repository               : "donghui-dai/donghui-dai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Donghui Dai"
   avatar           : "images/donghui.jpg"
-  bio              : "PhD Candidate in Computer Science"
+  bio              : "Hong Kong Polytechnic University"
   location         : "Kowloon, Hong Kong"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/donghui-dai-a410a5220"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-8245-3852"
   pinterest        :
