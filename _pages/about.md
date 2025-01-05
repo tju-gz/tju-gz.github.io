@@ -40,7 +40,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 <div class='paper-box-text' markdown="1"> -->
 ### Regular Articles
 
-1. <span style="display: inline-block; background-color: #172088; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">NSDI 2024</span> **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
+1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
 
     **Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
 
@@ -48,7 +48,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)] [[**Video**](https://youtu.be/9jnNp9LVpo4?si=64ipo-GN42B95u0Y)]
 
-2. <span style="display: inline-block; background-color: #172088; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">MobiCom 2023</span> **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones**
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2023</span> **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones**
 
     **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
 
@@ -56,7 +56,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[**Video**](https://donghui-dai.github.io/magcode/)]
 
-3. <span style="display: inline-block; background-color: #172088; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">S&P 2023</span> **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks**
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">S&P 2023</span> **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks**
 
     **Donghui Dai**, Zhenlin An, Lei Yang
 
@@ -64,7 +64,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://ieeexplore.ieee.org/document/10179363)] [[**Video**](https://anplus.github.io/magsound/)]
 
-4. <span style="display: inline-block; background-color: #172088; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">TMC 2024</span> **Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones**
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2024</span> **Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones**
 
     **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
 
@@ -72,31 +72,31 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://ieeexplore.ieee.org/document/10577149)]
 
-5. **Repurposing Optical Mice for Acoustic Eavesdropping**
+5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> **Repurposing Optical Mice for Acoustic Eavesdropping**
 
     Zhimin Mei, **Donghui Dai**, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025. <span style="color: red;">(CCF-A Conference)</span>
 
-6. **Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach**
+6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2023</span> **Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach**
 
     Yuanhao Feng, **Donghui Dai**, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE PerCom*, Washington, D.C., USA, March 17-21, 2025. <span style="color: red;">(CCF-B Conference)</span>
 
-7. **Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos**
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> **Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos**
 
      Shen Wang, Xiaopeng Zhao, **Donghui Dai**, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-8. **Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas**
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> **Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas**
 
      Zheng Gong, Zhenlin An, **Donghui Dai**, Jingyu Tong, Shuijie Long, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-9. **Commercial RFIDs as Reconfigurable Intelligent Surfaces**
+9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> **Commercial RFIDs as Reconfigurable Intelligent Surfaces**
 
      Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, **Donghui Dai**, Zhenlin An, Lei Yang
 
