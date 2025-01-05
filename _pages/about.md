@@ -34,12 +34,15 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='../images/RFIDPlus-exp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='../images/RFID-NDSI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[1] [RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields]
+RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
+
 **Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
+
 In Proc. of *USENIX NSDI*, Santa Clara, USA, April 16-18, 2024.
+
 [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)]
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
