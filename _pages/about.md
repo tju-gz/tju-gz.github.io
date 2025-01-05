@@ -40,7 +40,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 <div class='paper-box-text' markdown="1"> -->
 ### Regular Articles
 
-1. <div style="background-color: blue; color: white; padding: 5px 10px; display: inline-block; border-radius: 4px; font-weight: bold;">
+1. <div style="background-color: blue; color: white; padding: 5px 10px; display: inline-block; border-radius: 4px; font-weight: bold; margin-right: 10px;">
   NSDI 2024
 </div> **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
 
