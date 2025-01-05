@@ -27,21 +27,20 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*.
-- *2024.07*: &nbsp;🎉🎉 Exciting news! Our paper on physical side-channel communication systems has been accepted for publication in *IEEE Transactions on Mobile Computing (TMC)*.  
+- *2024.07*: &nbsp;🎉🎉 Our paper on physical side-channel communication systems has been accepted for publication in *IEEE TMC*.  
 - *2024.04*: &nbsp;🎉🎉 We are delighted to share that our paper on RFID inventory systems has been accepted at *USENIX NSDI 2024*.  
 - *2023.10*: &nbsp;🎉🎉 Thrilled to announce that our paper on NFC-to-Camera communication systems has been accepted at *ACM MobiCom 2023*.  
 - *2023.05*: &nbsp;🎉🎉 Proud to share that our paper on inaudible voice attacks has been accepted at *IEEE S&P 2023*.  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='images/RFIDPlus.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='../images/RFIDPlus-exp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields](https://www.usenix.org/conference/nsdi24/presentation/dai)
-
+[1] [RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields]
 **Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
-
 In Proc. of *USENIX NSDI*, Santa Clara, USA, April 16-18, 2024.
+[[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)]
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
