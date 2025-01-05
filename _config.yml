@@ -6,9 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+<<<<<<< HEAD
 title                    : "Lorem ipsum"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
+=======
+title                    : "Donghu Dai"
+description              : "Donghui Dai"
+repository               : "donghui-dai/donghui-dai.github.io"
+>>>>>>> 651635073e57a1dc0a18d723539cc579679f09fa
 google_scholar_stats_use_cdn : true
 
 # google analytics
