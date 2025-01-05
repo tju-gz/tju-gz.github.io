@@ -167,7 +167,9 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 #### Visitors
 <body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff&w=a"></script>
+  <div style="width: 300px; height: 200px; overflow: hidden;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff&w=a"></script>
+  </div>
 </body>
 
 <!-- # 💻 Internships
