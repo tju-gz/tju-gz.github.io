@@ -48,7 +48,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)] [[**Video**](https://youtu.be/9jnNp9LVpo4?si=64ipo-GN42B95u0Y)]
 
-2. **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones**
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">MobiCom 2023</span> **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones**
 
     **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
 
@@ -56,7 +56,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[**Video**](https://donghui-dai.github.io/magcode/)]
 
-3. **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks**
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">S&P 2023</span> **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks**
 
     **Donghui Dai**, Zhenlin An, Lei Yang
 
@@ -64,7 +64,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://ieeexplore.ieee.org/document/10179363)] [[**Video**](https://anplus.github.io/magsound/)]
 
-4. **Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones**
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">TMC 2024</span> **Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones**
 
     **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
 
