@@ -172,5 +172,23 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
   </div>
 </body>
 
+<body>
+    <!-- Default Statcounter code for My Academic Homepage
+    https://donghui-dai.github.io/ -->
+    <script type="text/javascript">
+    var sc_project=13074655; 
+    var sc_invisible=0; 
+    var sc_security="a0a15152"; 
+    var scJsHost = "https://";
+    document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+    "statcounter.com/counter/counter.js'></"+"script>");
+    </script>
+    <noscript><div class="statcounter"><a title="free hit counter"
+    href="https://statcounter.com/" target="_blank"><img class="statcounter"
+    src="https://c.statcounter.com/13074655/0/a0a15152/0/" alt="free hit counter"
+    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+    <!-- End of Statcounter Code -->
+</body>
+
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
