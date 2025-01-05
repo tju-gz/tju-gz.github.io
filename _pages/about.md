@@ -40,7 +40,13 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 <div class='paper-box-text' markdown="1"> -->
 ### Regular Articles
 
-1. <div class="badge">NSDI 2024</div> **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
+1. <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NSDI 2024</div>
+    </div>
+  </div>
+</div> **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
 
     **Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
 
