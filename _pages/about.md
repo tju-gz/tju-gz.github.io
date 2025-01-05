@@ -21,6 +21,8 @@ Hi! I am Donghui Dai, a final-year Ph.D. student in Computer Science at The Hong
 
 I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and IEEE PerCom. I have received awards including the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
 
+**<span style="color:red">I am currently exploring new opportunities and am actively on the job market, eager to contribute my skills and expertise to a dynamic team.</span>**
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -38,7 +40,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 <div class='paper-box-text' markdown="1"> -->
 ### Regular Articles
 
-1. **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
+1. <div class="badge">NSDI 2024</div> **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
 
     **Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
 
