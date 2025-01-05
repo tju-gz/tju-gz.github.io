@@ -26,7 +26,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*.
+- *2024.12*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*. One paper has been accepted at *IEEE PerCom 2025*.
 - *2024.07*: &nbsp;🎉🎉 Our paper on physical side-channel communication systems has been accepted for publication in *IEEE TMC*.  
 - *2024.04*: &nbsp;🎉🎉 We are delighted to share that our paper on RFID inventory systems has been accepted at *USENIX NSDI 2024*.  
 - *2023.10*: &nbsp;🎉🎉 Thrilled to announce that our paper on NFC-to-Camera communication systems has been accepted at *ACM MobiCom 2023*.  
