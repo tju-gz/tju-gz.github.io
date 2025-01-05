@@ -26,6 +26,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 
 # 🔥 News
+<span id="news"></span>
 - *2024.12*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*. One paper has been accepted at *IEEE PerCom 2025*.
 - *2024.07*: &nbsp;🎉🎉 Our paper on physical side-channel communication systems has been accepted for publication in *IEEE TMC*.  
 - *2024.04*: &nbsp;🎉🎉 We are delighted to share that our paper on RFID inventory systems has been accepted at *USENIX NSDI 2024*.  
@@ -33,7 +34,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 - *2023.05*: &nbsp;🎉🎉 Proud to share that our paper on inaudible voice attacks has been accepted at *IEEE S&P 2023*.  
 
 # 📝 Publications 
-
+<span id="publications"></span>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='../images/RFID-NDSI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 ### Regular Articles
@@ -128,6 +129,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+<span id="honors-and-awards"></span>
 - *2024.07* Nomination for Schmidt Science Fellows, The Hong Kong Polytechnic University 
 - *2024.04* Student Travel Grant, USENIX NSDI 2024
 - *2022.10* Two Best Demo Award Runner-up (2/20), ACM MobiCom 2022
@@ -136,6 +138,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 - *2020.07* ZhuoYue Outstanding Scholarship, Sun Yat-sen University
 
 # 📖 Educations
+<span id="educations"></span>
 - *2020.09 - 2025.06 (expected)*, **The Hong Kong Polytechnic University**
     - Ph.D. Student in Computer Science
     - Chief Supervisor: Dr. [Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
@@ -144,18 +147,20 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
     - Chief Supervisor: Dr. [Peiran Wu](https://ieeexplore.ieee.org/author/38236551200)
 
 # 💬 Invited Talks
+<span id="invited-talks"></span>
 - *2024.08*, "Unlocking the Power of Electromagnetic Interference in Mobile Computing", Central South University, host: Prof. Qilong Feng
 - *2023.12*, "NFC-Enabled Barcodes for NFC-Disabled Smartphones", Beihang University, host: Dr. Haohua Du
-- *2023.07*, " Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks", PolyU COMP Research Student Seminar, host: Dr. Lei Yang
+- *2023.07*, "Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks", PolyU COMP Research Student Seminar, host: Dr. Lei Yang
 
 # 🧑‍🏫 Teaching
+<span id="teaching"></span>
 - Teaching Assistant at HK PolyU, ENG2003 Information Technology Part II (Database)
     Fall 2021, Spring 2022, Spring 2023, Spring 2024
 - Teaching Assistant at HK PolyU, COMP5322 Internet Computing and Applications
     Fall 2022, Fall 2023, Fall 2024
 
-
 # 💻 Academic Services
+<span id="services"></span>
 - Reviewer for IEEE Internet of Things Journal, 2025
 - Reviewer for EAI MobiQuitous, 2024
 - Reviewer for IEEE ICC special issues, 2024
