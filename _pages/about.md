@@ -151,9 +151,9 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🧑‍🏫 Teaching
 - Teaching Assistant at HK PolyU, ENG2003 Information Technology Part II (Database)
-    Fall 2021, Spring 2022, Spring 2023, Spring 2024
+     Fall 2021, Spring 2022, Spring 2023, Spring 2024
 - Teaching Assistant at HK PolyU, COMP5322 Internet Computing and Applications
-    Fall 2022, Fall 2023, Fall 2024
+     Fall 2022, Fall 2023, Fall 2024
 
 # 💻 Academic Services
 - Reviewer for IEEE Internet of Things Journal, 2025
