@@ -133,9 +133,10 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 - *2024.07* Nomination for Schmidt Science Fellows, The Hong Kong Polytechnic University 
 - *2024.04* Student Travel Grant, USENIX NSDI 2024
 - *2022.10* Two Best Demo Award Runner-up (2/20), ACM MobiCom 2022
-- *2020 & 2019* National Encouragement Scholarships, Sun Yat-sen University
 - *2020.07* Excellent Undergraduate Thesis Award (5/100), Sun Yat-sen University
 - *2020.07* ZhuoYue Outstanding Scholarship, Sun Yat-sen University
+- *2020.01* National Encouragement Scholarship, Sun Yat-sen University
+- *2019.01* National Encouragement Scholarship, Sun Yat-sen University
 
 # 📖 Educations
 - *2021.09 - 2025.06 (expected)*, **The Hong Kong Polytechnic University** 
@@ -147,6 +148,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
     - Chief Supervisor: Dr. [Peiran Wu](https://ieeexplore.ieee.org/author/38236551200)
 
 # 💬 Invited Talks
+
 <span id="invited-talks"></span>
 - *2024.08*, "Unlocking the Power of Electromagnetic Interference in Mobile Computing", Central South University, host: Prof. Qilong Feng
 - *2023.12*, "NFC-Enabled Barcodes for NFC-Disabled Smartphones", Beihang University, host: Dr. Haohua Du
@@ -161,12 +163,59 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
   Fall 2022, Fall 2023, Fall 2024
 
 # 💻 Academic Services
+
 - Reviewer for IEEE Internet of Things Journal, 2025
 - Reviewer for EAI MobiQuitous, 2024
 - Reviewer for IEEE ICC special issues, 2024
 - Reviewer for EAI MobiQuitous, 2023
 
-#### Visitors
+# 🎬 Demonstration Videos
+
+<body>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <!-- 第一个视频 -->
+  <div style="flex: 1; min-width: 300px;">
+    <div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/JoX5p2UUaE0?si=upu9UPpEhs2bO5EX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <h3 style="
+  text-align: center; 
+  font-size: 18px; 
+  margin-bottom: 10px; 
+  background-color: #21477D; 
+  color: white; 
+  padding: 8px; 
+  border-radius: 3px;
+  font-family: '黑体', 'SimHei', sans-serif;
+">
+  NFC-enabled Side Channel Communication
+</h3>
+    <!-- <h3 style="text-align: center; font-size: 16px; ">[NFC-enabled Side Channel Communication]</h3> -->
+  </div>
+
+  <!-- 第二个视频 -->
+  <div style="flex: 1; min-width: 300px;">
+    <div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/oU4hSGAzZCU?si=JK14vWAT6EEiR-Gt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <h3 style="
+  text-align: center; 
+  font-size: 18px; 
+  margin-bottom: 10px; 
+  background-color: #841D0F; 
+  color: white; 
+  padding: 8px; 
+  border-radius: 3px;
+  font-family: '黑体', 'SimHei', sans-serif;
+">
+  Magnetic-inductive Inaduibe Voice Attacks
+</h3>
+    <!-- <h3 style="text-align: center; font-size: 16px; ">[Magnetic-inductive Inaduibe Voice Attacks]</h3> -->
+  </div>
+</div>
+</body>
+
+## Visitors
 <body>
   <div style="width: 300px; height: 200px; overflow: hidden;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff&w=a"></script>
