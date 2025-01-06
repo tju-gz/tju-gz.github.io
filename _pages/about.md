@@ -180,7 +180,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
     </div>
     <h3 style="
   text-align: center; 
-  font-size: 18px; 
+  font-size: 16px; 
   margin-bottom: 10px; 
   background-color: #21477D; 
   color: white; 
@@ -200,7 +200,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
     </div>
     <h3 style="
   text-align: center; 
-  font-size: 18px; 
+  font-size: 16px; 
   margin-bottom: 10px; 
   background-color: #841D0F; 
   color: white; 
