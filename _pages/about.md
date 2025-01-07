@@ -167,6 +167,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 # 💻 Academic Services
 
 - Reviewer for IEEE Internet of Things Journal, 2025
+- Reviewer for IEEE Open Journal of the Computer Society, 2025
 - Reviewer for EAI MobiQuitous, 2024
 - Reviewer for IEEE ICC special issues, 2024
 - Reviewer for EAI MobiQuitous, 2023
