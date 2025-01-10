@@ -191,7 +191,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
   border-radius: 3px;
   font-family: '黑体', 'SimHei', sans-serif;
 ">
-  NFC-enabled Side Channel Communication
+  NFC-to-Camera Mobile Payment
 </h3>
     <!-- <h3 style="text-align: center; font-size: 16px; ">[NFC-enabled Side Channel Communication]</h3> -->
   </div>
