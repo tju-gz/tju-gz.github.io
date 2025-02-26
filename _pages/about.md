@@ -41,83 +41,83 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 <div class='paper-box-text' markdown="1"> -->
 ### Regular Articles
 
-1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
+1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
 
-    **Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
+    **<u>Donghui Dai</u>**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
 
     In Proc. of *USENIX NSDI*, Santa Clara, USA, April 16-18, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
     [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)] [[**Video**](https://youtu.be/9jnNp9LVpo4?si=64ipo-GN42B95u0Y)]
 
-2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2023</span> **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones**
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2023</span> MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones
 
-    **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
+    **<u>Donghui Dai</u>**, Zhenlin An, Qingrui Pan, Lei Yang
 
     In Proc. of *ACM MobiCom*, Madrid, Spain, Oct 2-6, 2023. <span style="color: red;">(CCF-A Conference)</span>
 
     [[**Paper**](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[**Video**](https://donghui-dai.github.io/magcode/)]
 
-3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">S&P 2023</span> **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks**
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">S&P 2023</span> Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks
 
-    **Donghui Dai**, Zhenlin An, Lei Yang
+    **<u>Donghui Dai</u>**, Zhenlin An, Lei Yang
 
     In Proc. of *IEEE S&P (Oakland)*, San Francisco, USA, May 22-24, 2023. <span style="color: red;">(CCF-A Conference)</span>
 
     [[**Paper**](https://ieeexplore.ieee.org/document/10179363)] [[**Video**](https://anplus.github.io/magsound/)]
 
-4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2024</span> **Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones**
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2024</span> Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones
 
-    **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
+    **<u>Donghui Dai</u>**, Zhenlin An, Qingrui Pan, Lei Yang
 
     In *IEEE Transactions on Mobile Computing*, 2024. <span style="color: red;">(CCF-A Journal)</span>
 
     [[**Paper**](https://ieeexplore.ieee.org/document/10577149)]
 
-5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> **Repurposing Optical Mice for Acoustic Eavesdropping**
+5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
 
-    Zhimin Mei, **Donghui Dai**, Jingyu Tong, Zheng Gong, Lei Yang
+    Zhimin Mei, **<u>Donghui Dai</u>**, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025. <span style="color: red;">(CCF-A Conference)</span>
 
-6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> **Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach**
+6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
 
-    Yuanhao Feng, **Donghui Dai**, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
+    Yuanhao Feng, **<u>Donghui Dai</u>**, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE PerCom*, Washington, D.C., USA, March 17-21, 2025. <span style="color: red;">(CCF-B Conference)</span>
 
-7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> **Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos**
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
 
-     Shen Wang, Xiaopeng Zhao, **Donghui Dai**, Lei Yang
-
-    In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
-
-8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> **Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas**
-
-     Zheng Gong, Zhenlin An, **Donghui Dai**, Jingyu Tong, Shuijie Long, Lei Yang
+     Shen Wang, Xiaopeng Zhao, **<u>Donghui Dai</u>**, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> **Commercial RFIDs as Reconfigurable Intelligent Surfaces**
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
 
-     Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, **Donghui Dai**, Zhenlin An, Lei Yang
+     Zheng Gong, Zhenlin An, **<u>Donghui Dai</u>**, Jingyu Tong, Shuijie Long, Lei Yang
+
+    In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
+
+9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
+
+     Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, **<u>Donghui Dai</u>**, Zhenlin An, Lei Yang
 
     In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025. <span style="color: red;">(CCF-A Conference)</span>
 
 ### Demo & Poster Articles
 
-1. **Demo: Inducing Wireless Chargers to Voice Out**
+1. Demo: Inducing Wireless Chargers to Voice Out
 
      **Donghui Dai**, Zhenlin An, Lei Yang
 
     In Proc. of *ACM MobiCom*, Sydney, Australia, Oct 17-22, 2022 <span style="color: red;">(Best Demo Award Runner-up)</span>
 
-2. **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**
+2. Demo: Constructing Smart Buildings with In-concrete Backscatter Networks
 
      Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
 
     In Proc. of *ACM MobiCom*, Sydney, Australia, Oct 17-22, 2022 <span style="color: red;">(Best Demo Award Runner-up)</span>
 
-3. **Demo: MagCode: Bringing NFC Feature to All Smartphones**
+3. Demo: MagCode: Bringing NFC Feature to All Smartphones
 
      **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
 
