@@ -136,8 +136,6 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 - *2022.10* Two Best Demo Award Runner-up (2/20), ACM MobiCom 2022
 - *2020.07* Excellent Undergraduate Thesis Award (5/100), Sun Yat-sen University
 - *2020.07* ZhuoYue Outstanding Scholarship, Sun Yat-sen University
-- *2020.01* National Encouragement Scholarship, Sun Yat-sen University
-- *2019.01* National Encouragement Scholarship, Sun Yat-sen University
 
 <!-- # 📖 Educations -->
 # 🎓 Educations
