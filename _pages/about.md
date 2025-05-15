@@ -22,7 +22,7 @@ Hi! I am Donghui Dai, an incoming Research Assistant Professor at The Hong Kong 
 
 I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and IEEE PerCom. My work has been recognized with accolades such as the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
 
-**<span style="color:red">I am currently on the job market and actively exploring opportunities for postdoctoral research or industry roles.</span>**
+<!-- **<span style="color:red">I am currently on the job market and actively exploring opportunities for postdoctoral research or industry roles.</span>** -->
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
