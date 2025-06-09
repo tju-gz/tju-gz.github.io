@@ -182,28 +182,29 @@ I have published full research papers on all CCF A conferences in computer netwo
 <body>
   <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
     <!-- 第一个视频 -->
-    <div style="flex: 1; min-width: 300px;">
-      <div>
-        <iframe src="//player.bilibili.com/player.html?bvid=BV1Cg411S7R8&page=1"
-                scrolling="no"
-                border="0"
-                frameborder="no"
-                framespacing="0"
-                allowfullscreen="true"
-                style="width: 100%; height: 315px;">
+    <div style="flex: 1; min-width: 300px; max-width: 560px; margin: auto;">
+      <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px;">
+        <iframe 
+          src="//player.bilibili.com/player.html?bvid=BV1Cg411S7R8&page=1&autoplay=0" 
+          scrolling="no" 
+          border="0" 
+          frameborder="no" 
+          framespacing="0" 
+          allowfullscreen="true" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
         </iframe>
       </div>
       <h3 style="
         text-align: center; 
         font-size: 16px; 
-        margin-bottom: 10px; 
+        margin-top: 10px; 
         background-color: #21477D; 
         color: white; 
         padding: 8px; 
         border-radius: 3px;
         font-family: '黑体', 'SimHei', sans-serif;
       ">
-        In-concrete Acoustic Backscatter Communication
+        墙内压电反向散射通信系统演示视频
       </h3>
     </div>
   </div>
