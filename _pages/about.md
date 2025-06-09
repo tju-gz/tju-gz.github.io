@@ -149,7 +149,7 @@ I have published full research papers on all CCF A conferences in computer netwo
 
 <!-- # 📖 Educations -->
 # 🎓 Educations 教育
-- *2021.08 - 2025.02 (expected)*, **The Hong Kong Polytechnic University** 
+- *2021.08 - 2025.02*, **The Hong Kong Polytechnic University** 
     - Rank #57 in [QS World University Rankings](https://www.topuniversities.com/universities/hong-kong-polytechnic-university) 2025
     - Ph.D. Student in Computing
     - Chief Supervisor: Dr. [Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
