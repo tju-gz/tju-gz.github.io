@@ -17,111 +17,123 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🙋‍♂️ About Me
-Hi! I am Donghui Dai, an incoming Research Assistant Professor at The Hong Kong Polytechnic University. I earned my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 at April 2025, supervised by [Dr. Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). My research focuses on mobile and sensing technologies for wireless security, backscatter communication, cyber-physical systems, and wireless sensing. I design algorithms and construct systems that connect, perceive, and interact with the environment in innovative ways to enable more efficient, secure, robust, and capable mobile systems.
+# 🙋‍♂️ About Me 关于我
+Hi! I am Zheng Gong, an Associate Researcher at the [College of Intelligence and Computing](https://cic.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/). I am also a researcher at [TANKLab]([https://www.tju.edu.cn/](https://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)), led by [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/). I received my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 in February 2025, supervised by [Dr. Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). My research spans the fields of low-power communication and sensing systems. 
 
-I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and IEEE PerCom. My work has been recognized with accolades such as the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
+I have published full research papers on all CCF A conferences in computer networks and the Internet of Things, including ACM SIGCOMM, ACM MobiCom, USENIX NSDI, and IEEE INFOCOM. My work has been awarded the Best Demo Award Runner-up at ACM MobiCom 2022. 
 
 <!-- **<span style="color:red">I am currently on the job market and actively exploring opportunities for postdoctoral research or industry roles.</span>** -->
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+**<span style="color:red">学生招募🎯:</span>** 我一直招募优秀的博士生、硕士生和本科生和我合作🤝，研究方向为智慧物联网，属于EE和CS的交叉方向，十分鼓励EE背景和CS背景的学生踊跃申请。EE背景的学生需要掌握电磁场和电磁波、通信原理、数字/模拟电路设计、天线仿真和设计、复变函数等相关课程。CS背景的同学则需熟练使用Python、C++、Matlab等编程语言，同时对信号处理、深度学习、图像识别等技术有初步了解。对物联网、通信、感知有兴趣，或者参加过类似科研、竞赛项目是加分项🤔。
 
-# 🔥 News
+
+# 🔥 News 新闻
 <span id="news"></span>
-- *2024.12*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*. One paper has been accepted at *IEEE PerCom 2025*.
-- *2024.07*: &nbsp;🎉🎉 Our paper on physical side-channel communication systems has been accepted for publication in *IEEE TMC*.  
+- *2025.05*: &nbsp;🎉🎉 I have officially joined Tianjin University as an Associate Researcher.
+- *2025.03*: &nbsp;🎉🎉 Our paper on edge-assisted robot swarm intelligence has been accepted for publication in *IEEE TMC*.  
 - *2024.04*: &nbsp;🎉🎉 We are delighted to share that our paper on RFID inventory systems has been accepted at *USENIX NSDI 2024*.  
-- *2023.10*: &nbsp;🎉🎉 Thrilled to announce that our paper on NFC-to-Camera communication systems has been accepted at *ACM MobiCom 2023*.  
-- *2023.05*: &nbsp;🎉🎉 Proud to share that our paper on inaudible voice attacks has been accepted at *IEEE S&P 2023*.  
+- *2024.02*: &nbsp;🎉🎉 Thrilled to announce that our paper on cross-medium communication systems has been accepted at *ACM MobiCom 2024*.  
 
-# 📝 Publications 
+
+# 📝 Publications 论文
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='../images/RFID-NDSI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-### Regular Articles
 
-1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
+<sup>‡</sup>These authors contributed equally to this work. <sup>#</sup> Students advised by me.
 
-    **<u>Donghui Dai</u>**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
 
-    In Proc. of *USENIX NSDI*, Santa Clara, USA, April 16-18, 2024. <span style="color: red;">(CCF-A Conference)</span>
+### Conference Papers 会议论文
+1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
 
-    [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)] [[**Video**](https://youtu.be/9jnNp9LVpo4?si=64ipo-GN42B95u0Y)]
+    **<u>Zheng Gong</u>**, Zhenlin An, Donghui Dai, Jingyu Tong, Shuijie Long, Lei Yang
 
-2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2023</span> MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones
+    In Proc. of *ACM MobiCom*, Washington DC, USA, Nov 17-21, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-    **<u>Donghui Dai</u>**, Zhenlin An, Qingrui Pan, Lei Yang
+    [[**Paper**](https://dl.acm.org/doi/10.1145/3636534.3649387)]
 
-    In Proc. of *ACM MobiCom*, Madrid, Spain, Oct 2-6, 2023. <span style="color: red;">(CCF-A Conference)</span>
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">SIGCOMM 2022</span> Empowering Smart Buildings with Self-Sensing Concrete for  Structural Health Monitoring
 
-    [[**Paper**](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[**Video**](https://donghui-dai.github.io/magcode/)]
+    **<u>Zheng Gong</u><sup>‡</sup>**, Lubing Han<sup>‡</sup>, Zhenlin An, Lei Yang, Siqi Ding, Yu Xiang
 
-3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">S&P 2023</span> Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks
+    In Proc. of *ACM SIGCOMM*, Amsterdam, Netherlands, Aug 22-26, 2022. <span style="color: red;">(CCF-A Conference)</span>
 
-    **<u>Donghui Dai</u>**, Zhenlin An, Lei Yang
+    [[**Paper**](https://dl.acm.org/doi/abs/10.1145/3544216.3544270)] [[**Video**](https://www.bilibili.com/video/BV1Cg411S7R8/)]
 
-    In Proc. of *IEEE S&P (Oakland)*, San Francisco, USA, May 22-24, 2023. <span style="color: red;">(CCF-A Conference)</span>
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2022 Demo</span> Constructing Smart Buildings with In-concrete Backscatter Networks
 
-    [[**Paper**](https://ieeexplore.ieee.org/document/10179363)] [[**Video**](https://anplus.github.io/magsound/)]
+    **<u>Zheng Gong</u>**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 
-4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2024</span> Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones
+    In Proc. of *ACM MobiCom*, Sydney, Australia, Oct 17-22, 2022. <span style="color: red;">(CCF-A Conference, **Best Demo Award Runner-Up**)</span>
 
-    **<u>Donghui Dai</u>**, Zhenlin An, Qingrui Pan, Lei Yang
+    [[**Paper**](https://dl.acm.org/doi/10.1145/3495243.3558756)]
 
-    In *IEEE Transactions on Mobile Computing*, 2024. <span style="color: red;">(CCF-A Journal)</span>
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">APWeb-WAIM 2020</span> Instance-Aware Evaluation of Sensitive Columns in Tabular Dataset
 
-    [[**Paper**](https://ieeexplore.ieee.org/document/10577149)]
+    **<u>Zheng Gong</u><sup>‡</sup>**, Kechun Zhao<sup>‡</sup>, Hui Li, Yingxue Wang
 
-5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
+    In Proc. of *APWeb-WAIM*, Tianjin, China, Sep 18-20, 2020 <span style="color: red;">(CCF-C Conference)</span>
 
-    Zhimin Mei, **<u>Donghui Dai</u>**, Jingyu Tong, Zheng Gong, Lei Yang
+    [[**Paper**](https://dl.acm.org/doi/abs/10.1007/978-3-030-60259-8_2)]
 
-    In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025. <span style="color: red;">(CCF-A Conference)</span>
+5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">ACM TURC 2023</span> Building the Future: Empowering Smart Structures with In-Concrete Backscatter Networks 
 
-6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+    **<u>Zheng Gong</u>**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 
-    Yuanhao Feng, **<u>Donghui Dai</u>**, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
+    In Proc. of *ACM Turing Award Celebration Conference-China*, Wuhan, China, July 28-30, 2023
+
+    [[**Paper**](https://dl.acm.org/doi/10.1145/3603165.3607370)]
+
+6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
+
+    Donghui Dai, Zhenlin An, **<u>Zheng Gong</u>**, Qingrui Pan, Lei Yang
+
+   In Proc. of *USENIX NSDI*, Santa Clara, USA, Apr 16-18, 2024 <span style="color: red;">(CCF-A Conference)</span>
+
+   [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)]
+
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
+
+    Zhimin Mei, Donghui Dai, Jingyu Tong, **<u>Zheng Gong</u>**, Lei Yang
+
+   In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025 <span style="color: red;">(CCF-A Conference)</span>
+   
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">UbiComp 2025</span> Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks
+
+    Jingyu Tong, Donghui Dai, **<u>Zheng Gong</u>**, Lei Yang
+
+   In Proc. of *ACM UbiComp/ISWC*, Espoo, Finland, Oct 14-17, 2025 <span style="color: red;">(CCF-A Conference)</span>
+ 
+9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+
+    Yuanhao Feng, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, **<u>Zheng Gong</u>**, Lei Yang
 
     In Proc. of *IEEE PerCom*, Washington, D.C., USA, March 17-21, 2025. <span style="color: red;">(CCF-B Conference)</span>
 
-7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
+    [[**Paper**](https://www.computer.org/csdl/proceedings-article/percom/2025/355100a222/27fiz3K5BXa)]
 
-     Shen Wang, Xiaopeng Zhao, **<u>Donghui Dai</u>**, Lei Yang
+10. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">CIKM 2021 Demo</span> SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data
 
-    In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
+    Kechun Zhao, Hui Li, **<u>Zheng Gong</u>**, Jiangtao Cui
 
-8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
+    In Proc. of *ACM CIKM*, Gold Coast, Queensland, Australia, Nov 1-5, 2021 <span style="color: red;">(CCF-B Conference)</span>
 
-     Zheng Gong, Zhenlin An, **<u>Donghui Dai</u>**, Jingyu Tong, Shuijie Long, Lei Yang
+    [[**Paper**](https://dl.acm.org/doi/10.1145/3459637.3481975)]
 
-    In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
+### Journal Articles 期刊论文
 
-     Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, **<u>Donghui Dai</u>**, Zhenlin An, Lei Yang
+1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation
 
-    In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025. <span style="color: red;">(CCF-A Conference)</span>
+     Rui Ge<sup>#</sup>, Huanghuang Liang, **<u>Zheng Gong</u>**, Chuang Hu, Xiaobo Zhou, Dazhao Cheng
 
-### Demo & Poster Articles
+    In *IEEE Transactions on Mobile Computing*, 2025 <span style="color: red;">(CCF-A Journal)</span>
 
-1. Demo: Inducing Wireless Chargers to Voice Out
+    [[**Paper**](https://ieeexplore.ieee.org/abstract/document/10918818)]
 
-     **Donghui Dai**, Zhenlin An, Lei Yang
 
-    In Proc. of *ACM MobiCom*, Sydney, Australia, Oct 17-22, 2022 <span style="color: red;">(Best Demo Award Runner-up)</span>
-
-2. Demo: Constructing Smart Buildings with In-concrete Backscatter Networks
-
-     Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
-
-    In Proc. of *ACM MobiCom*, Sydney, Australia, Oct 17-22, 2022 <span style="color: red;">(Best Demo Award Runner-up)</span>
-
-3. Demo: MagCode: Bringing NFC Feature to All Smartphones
-
-     **Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
-
-    In Proc. of *ACM MobiCom*, Madrid, Spain, Oct 02-06, 2023.
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -130,115 +142,69 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2024.07* Nomination for Schmidt Science Fellows, The Hong Kong Polytechnic University 
-- *2024.04* Student Travel Grant, USENIX NSDI 2024
-- *2022.10* Two Best Demo Award Runner-up (2/20), ACM MobiCom 2022
-- *2020.07* Excellent Undergraduate Thesis Award (5/100), Sun Yat-sen University
-- *2020.07* ZhuoYue Outstanding Scholarship, Sun Yat-sen University
+# 🎖 Honors and Awards 荣誉奖项
+
+- *2022.10* Best Demo Award Runner-up (2/20), ACM MobiCom 2022
+
 
 <!-- # 📖 Educations -->
-# 🎓 Educations
-- *2021.09 - 2025.06 (expected)*, **The Hong Kong Polytechnic University** 
+# 🎓 Educations 教育
+- *2021.08 - 2025.02 (expected)*, **The Hong Kong Polytechnic University** 
     - Rank #57 in [QS World University Rankings](https://www.topuniversities.com/universities/hong-kong-polytechnic-university) 2025
-    - Ph.D. Student in Computer Science
+    - Ph.D. Student in Computing
     - Chief Supervisor: Dr. [Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
-- *2016.09 - 2020.07*, **Sun Yat-sen University**
-    - B.E. degree in Electrical Engineering
-    - Chief Supervisor: Dr. [Peiran Wu](https://ieeexplore.ieee.org/author/38236551200)
+- *2018.09 - 2021.05*, **Xidian University**
+    - M.E. degree in Cyberspace Security
+    - Chief Supervisor: Dr. [Hui Li](https://lihuixidian.github.io/)
+- *2016.09 - 2020.07*, **Xidian University**
+    - B.E. degree in Computer Science and Technology
+    - Chief Supervisor: Dr. [Hui Li](https://lihuixidian.github.io/)
 
-# 💬 Invited Talks
+# 💬 Invited Talks 演讲
 
 <span id="invited-talks"></span>
-- *2024.08*, "Unlocking the Power of Electromagnetic Interference in Mobile Computing", Central South University, host: Prof. Qilong Feng
-- *2023.12*, "NFC-Enabled Barcodes for NFC-Disabled Smartphones", Beihang University, host: Dr. Haohua Du
-- *2023.07*, "Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks", PolyU COMP Research Student Seminar, host: Dr. Lei Yang
+- *2024.08*, "Omnimedium Communication via Piezoelectricity", Tianjin University, Host: Prof. Xiulong Liu
 
-# 🧑‍🏫 Teaching
 
-- Teaching Assistant at HK PolyU, ENG2003 Information Technology Part II (Database)  
-  Fall 2021, Spring 2022, Spring 2023, Spring 2024
+# 🧑‍🏫 Students 学生
 
-- Teaching Assistant at HK PolyU, COMP5322 Internet Computing and Applications  
-  Fall 2022, Fall 2023, Fall 2024
+- Mr. Rui Ge (Ph.D, Student from [ICSLab](http://icslab.whu.edu.cn/english.html), Wuhan University)
 
-# 💻 Academic Services
+# 💻 Academic Services 学术服务
 
-- Reviewer for IEEE Internet of Things Journal
-- Reviewer for IEEE Network Magazine
-- Reviewer for IEEE Open Journal of the Computer Society
-- Reviewer for EAI MobiQuitous, 2023-2024
+- Reviewer for IEEE Transactions on Mobile Computing (CCF A)
+- Reviewer for IEEE Transactions on Parallel and Distributed Systems (CCF A)
+- Reviewer for IEEE Transactions on Theoretical Computer Science (CCF A)
+- Reviewer for EAI MobiQuitous, 2023-2024 (CCF C)
 
-# 🎬 Demonstration Videos
+# 🎬 Demonstration Videos 演示视频
 
 <body>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <!-- 第一个视频 -->
-  <div style="flex: 1; min-width: 300px;">
-    <div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/JoX5p2UUaE0?si=upu9UPpEhs2bO5EX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+    <!-- 第一个视频 -->
+    <div style="flex: 1; min-width: 300px;">
+      <div>
+        <iframe src="//player.bilibili.com/player.html?bvid=BV1Cg411S7R8&page=1"
+                scrolling="no"
+                border="0"
+                frameborder="no"
+                framespacing="0"
+                allowfullscreen="true"
+                style="width: 100%; height: 315px;">
+        </iframe>
+      </div>
+      <h3 style="
+        text-align: center; 
+        font-size: 16px; 
+        margin-bottom: 10px; 
+        background-color: #21477D; 
+        color: white; 
+        padding: 8px; 
+        border-radius: 3px;
+        font-family: '黑体', 'SimHei', sans-serif;
+      ">
+        In-concrete Acoustic Backscatter Communication
+      </h3>
     </div>
-    <h3 style="
-  text-align: center; 
-  font-size: 16px; 
-  margin-bottom: 10px; 
-  background-color: #21477D; 
-  color: white; 
-  padding: 8px; 
-  border-radius: 3px;
-  font-family: '黑体', 'SimHei', sans-serif;
-">
-  NFC-to-Camera Mobile Payment
-</h3>
-    <!-- <h3 style="text-align: center; font-size: 16px; ">[NFC-enabled Side Channel Communication]</h3> -->
-  </div>
-
-  <!-- 第二个视频 -->
-  <div style="flex: 1; min-width: 300px;">
-    <div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/oU4hSGAzZCU?si=JK14vWAT6EEiR-Gt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-    <h3 style="
-  text-align: center; 
-  font-size: 16px; 
-  margin-bottom: 10px; 
-  background-color: #841D0F; 
-  color: white; 
-  padding: 8px; 
-  border-radius: 3px;
-  font-family: '黑体', 'SimHei', sans-serif;
-">
-  Magnetic-inductive Inaduibe Voice Attacks
-</h3>
-    <!-- <h3 style="text-align: center; font-size: 16px; ">[Magnetic-inductive Inaduibe Voice Attacks]</h3> -->
-  </div>
-</div>
-</body>
-
-## Visitors
-<body>
-  <div style="width: 300px; height: 200px; overflow: hidden;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff&w=a"></script>
   </div>
 </body>
-
-<body>
-    <!-- Default Statcounter code for My Academic Homepage
-    https://donghui-dai.github.io/ -->
-    <script type="text/javascript">
-    var sc_project=13074655; 
-    var sc_invisible=0; 
-    var sc_security="a0a15152"; 
-    var scJsHost = "https://";
-    document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-    "statcounter.com/counter/counter.js'></"+"script>");
-    </script>
-    <noscript><div class="statcounter"><a title="free hit counter"
-    href="https://statcounter.com/" target="_blank"><img class="statcounter"
-    src="https://c.statcounter.com/13074655/0/a0a15152/0/" alt="free hit counter"
-    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-    <!-- End of Statcounter Code -->
-</body>
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
