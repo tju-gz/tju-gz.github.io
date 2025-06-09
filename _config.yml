@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Donghui Dai"
-description              : "Researcher in computer science. Focusing on IoT security, wireless systems."
-repository               : "donghui-dai/donghui-dai.github.io"
+title                    : "Zheng Gong"
+description              : "Associate Researcher in Computer Science. Focusing on Intelligent IoT and Wireless Communication."
+repository               : "tju-gz/tju-gz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Donghui Dai 戴东辉"
-  avatar           : "images/dai_self.jpg"
-  bio              : "The Hong Kong Polytechnic University"
-  location         : "Kowloon, Hong Kong"
+  name             : "Zheng Gong 龚政"
+  avatar           : "images/gz_self.jpg"
+  bio              : "Tianjin University"
+  location         : "Building 55, Peiyang Park Campus, Tianjin University, Tianjin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Zj4egZEAAAAJ"
-  email            : "donghui.dai@connect.polyu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=RS03SskAAAAJ&hl=zh-CN"
+  email            : "gongzheng@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "donghui-dai" # e.g., "github username"
+  github           : "tju-gz" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "donghui-dai-a410a5220"
+  linkedin         : # "donghui-dai-a410a5220"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-8245-3852"
+  orcid            : # "https://orcid.org/0000-0001-8245-3852"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
