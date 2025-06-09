@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tju-gz" # e.g., "github username"
+  github           : # "tju-gz" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
