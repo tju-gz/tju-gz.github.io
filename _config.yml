@@ -22,9 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zheng Gong 龚政"
-  avatar           : "images/gz_self.jpg"
+  avatar           : "images/gz-self.png"
   bio              : "Tianjin University"
-  location         : "Building 55, Peiyang Park Campus, Tianjin University, Tianjin, China"
+  location         : "Building 55, Peiyang Park Campus
+Tianjin University, Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RS03SskAAAAJ&hl=zh-CN"
