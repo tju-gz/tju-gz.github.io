@@ -40,8 +40,6 @@ I have published full research papers on all CCF A conferences in computer netwo
 
 # 📝 Publications 论文
 <span id="publications"></span>
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='../images/RFID-NDSI.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 
 <sup>‡</sup>These authors contributed equally to this work. <sup>#</sup> Students advised by me.
 
