@@ -170,7 +170,7 @@ I have published full research papers on all CCF A conferences in computer netwo
 # 💬 Invited Talks 演讲
 
 
-- *2024.08*, "Omnimedium Communication via Piezoelectricity", Tianjin University, Host: Prof. Xiulong Liu
+- *2024.08*, "Omnimedium Communication via Piezoelectricity", Tianjin University, Host: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html)
 
 <span id="students"></span>
 
