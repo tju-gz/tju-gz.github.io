@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🙋‍♂️ About Me 关于我
-Hi! I am Zheng Gong, an Associate Researcher at the [College of Intelligence and Computing](https://cic.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/)(天津大学智能与计算学部/网络安全学院). I am also a researcher at [TANKLab](https://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111), led by [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/), IEEE Fellow. I received my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 in February 2025, supervised by [Dr. Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). My research spans the fields of low-power communication and sensing systems. 
+Hi! I am Zheng Gong, an Associate Researcher at the [College of Intelligence and Computing](https://cic.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/)(天津大学智能与计算学部/网络安全学院). I am also a researcher at [TANKLab](https://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111), led by [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/), IEEE Fellow. I received my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 in February 2025, supervised by [Prof. Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). My research spans the fields of low-power communication and sensing systems. 
 
 I have published full research papers on all CCF A conferences in computer networks, including ACM SIGCOMM, ACM MobiCom, USENIX NSDI, and IEEE INFOCOM. My work has been awarded the Best Demo Award Runner-up at ACM MobiCom 2022. 
 
@@ -157,13 +157,13 @@ I have published full research papers on all CCF A conferences in computer netwo
 - *2021.08 - 2025.02*, **The Hong Kong Polytechnic University** 
     - Rank #57 in [QS World University Rankings](https://www.topuniversities.com/universities/hong-kong-polytechnic-university) 2025
     - Ph.D. Student in Computing
-    - Chief Supervisor: Dr. [Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
+    - Chief Supervisor: [Prof.Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
 - *2018.09 - 2021.05*, **Xidian University**
     - M.E. degree in Cyberspace Security
-    - Chief Supervisor: Dr. [Hui Li](https://lihuixidian.github.io/)
+    - Chief Supervisor: [Prof. Hui Li](https://lihuixidian.github.io/)
 - *2016.09 - 2020.07*, **Xidian University**
     - B.E. degree in Computer Science and Technology
-    - Chief Supervisor: Dr. [Hui Li](https://lihuixidian.github.io/)
+    - Chief Supervisor: [Prof. Hui Li](https://lihuixidian.github.io/)
       
 <span class='anchor' id="invited-talks"></span>
 
