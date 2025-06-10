@@ -30,6 +30,7 @@ I have published full research papers on all CCF A conferences in computer netwo
 🎯**<span style="color:red">学生招募</span>**: 我一直招募优秀的博士生、硕士生和本科生和我合作🤝，研究方向为智慧物联网，属于EE和CS的交叉方向，十分鼓励EE背景和CS背景的学生踊跃申请。EE背景的学生需要掌握电磁场和电磁波、通信原理、数字/模拟电路设计、天线仿真和设计、复变函数等相关课程。CS背景的同学则需熟练使用Python、C++、Matlab等编程语言，同时对嵌入式开发、信号处理、深度学习等技术有初步了解。对物联网、通信、感知有兴趣，或者参加过类似科研、竞赛项目是加分项🤔。有兴趣的同学请将简历和其他个人说明材料发送至gongzheng (at) tju.edu.cn。
 
 <span id="news"></span>
+
 # 🔥 News 新闻
 
 - *2025.05*: &nbsp;🎉🎉 I have officially joined Tianjin University as an Associate Researcher.
@@ -38,6 +39,7 @@ I have published full research papers on all CCF A conferences in computer netwo
 - *2024.02*: &nbsp;🎉🎉 Thrilled to announce that our paper on cross-medium communication systems has been accepted at *ACM MobiCom 2024*.  
 
 <span id="publications"></span>
+
 # 📝 Publications 论文
 
 
@@ -142,11 +144,13 @@ I have published full research papers on all CCF A conferences in computer netwo
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <span id="honors-and-awards"></span>
+
 # 🎖 Honors and Awards 荣誉奖项
 
 - *2022.10* Best Demo Award Runner-up (2/20), ACM MobiCom 2022
 
 <span id="educations"></span>
+
 <!-- # 📖 Educations -->
 # 🎓 Educations 教育
 
@@ -162,17 +166,20 @@ I have published full research papers on all CCF A conferences in computer netwo
     - Chief Supervisor: Dr. [Hui Li](https://lihuixidian.github.io/)
       
 <span id="invited-talks"></span>
+
 # 💬 Invited Talks 演讲
 
 
 - *2024.08*, "Omnimedium Communication via Piezoelectricity", Tianjin University, Host: Prof. Xiulong Liu
 
 <span id="students"></span>
+
 # 🧑‍🏫 Students 学生
 
 - Mr. Rui Ge (Ph.D, Student from [ICSLab](http://icslab.whu.edu.cn/english.html), Wuhan University)
 
 <span id="academic-services"></span>
+
 # 💻 Academic Services 学术服务
 
 - Reviewer for IEEE Transactions on Mobile Computing (CCF A)
@@ -181,6 +188,7 @@ I have published full research papers on all CCF A conferences in computer netwo
 - Reviewer for EAI MobiQuitous (CCF C)
   
 <span id="demonstration-videos"></span>
+
 # 🎬 Demonstration Videos 演示视频
 
 <body>
