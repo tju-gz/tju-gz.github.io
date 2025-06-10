@@ -38,7 +38,7 @@ I have published full research papers on all CCF A conferences in computer netwo
 - *2024.04*: &nbsp;🎉🎉 We are delighted to share that our paper on RFID inventory systems has been accepted at *USENIX NSDI 2024*.  
 - *2024.02*: &nbsp;🎉🎉 Thrilled to announce that our paper on cross-medium communication systems has been accepted at *ACM MobiCom 2024*.  
 
-<span id="publications"></span>
+<span class='anchor' id="publications"></span>
 
 # 📝 Publications 论文
 
@@ -143,13 +143,13 @@ I have published full research papers on all CCF A conferences in computer netwo
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<span id="honors-and-awards"></span>
+<span class='anchor' id="honors-and-awards"></span>
 
 # 🎖 Honors and Awards 荣誉奖项
 
 - *2022.10* Best Demo Award Runner-up (2/20), ACM MobiCom 2022
 
-<span id="educations"></span>
+<span class='anchor' id="educations"></span>
 
 <!-- # 📖 Educations -->
 # 🎓 Educations 教育
@@ -165,20 +165,20 @@ I have published full research papers on all CCF A conferences in computer netwo
     - B.E. degree in Computer Science and Technology
     - Chief Supervisor: Dr. [Hui Li](https://lihuixidian.github.io/)
       
-<span id="invited-talks"></span>
+<span class='anchor' id="invited-talks"></span>
 
 # 💬 Invited Talks 演讲
 
 
 - *2024.08*, "Omnimedium Communication via Piezoelectricity", Tianjin University, Host: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html)
 
-<span id="students"></span>
+<span class='anchor' id="students"></span>
 
 # 🧑‍🏫 Students 学生
 
 - Mr. Rui Ge (Ph.D, Student from [ICSLab](http://icslab.whu.edu.cn/english.html), Wuhan University)
 
-<span id="academic-services"></span>
+<span class='anchor' id="academic-services"></span>
 
 # 💻 Academic Services 学术服务
 
@@ -187,7 +187,7 @@ I have published full research papers on all CCF A conferences in computer netwo
 - Reviewer for IEEE Transactions on Theoretical Computer Science (CCF A)
 - Reviewer for EAI MobiQuitous (CCF C)
   
-<span id="demonstration-videos"></span>
+<span class='anchor' id="demonstration-videos"></span>
 
 # 🎬 Demonstration Videos 演示视频
 
