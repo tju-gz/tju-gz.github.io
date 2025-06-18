@@ -158,10 +158,10 @@ I have published full research papers on <span style="display: inline-block; bac
     - Rank #57 in [QS World University Rankings](https://www.topuniversities.com/universities/hong-kong-polytechnic-university) 2025
     - Ph.D. Student in Computing
     - Chief Supervisor: [Prof.Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
-- *2018.09 - 2021.05*, **Xidian University**
+- *2018.09 - 2021.06*, **Xidian University**
     - M.E. degree in Cyberspace Security
     - Chief Supervisor: [Prof. Hui Li](https://lihuixidian.github.io/)
-- *2016.09 - 2020.07*, **Xidian University**
+- *2014.09 - 2018.06*, **Xidian University**
     - B.E. degree in Computer Science and Technology
     - Chief Supervisor: [Prof. Hui Li](https://lihuixidian.github.io/)
       
