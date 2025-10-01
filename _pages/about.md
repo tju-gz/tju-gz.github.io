@@ -177,11 +177,21 @@ I have published full research papers on <span style="display: inline-block; bac
 # 🧑‍🏫 Students 学生
 
 - Mr. Rui Ge (Ph.D, Student from [ICSLab](http://icslab.whu.edu.cn/english.html), Wuhan University)
+- Mr. Weiwei Zheng (Master Student)
+- Mr. Haobo Gao (Master Student, Co-supervised with [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html))
+- Mr. Jianbo Hou (Master Student, Co-supervised with [Prof. Xin Xie](https://xiexincn.github.io/))
+- Mr. Jialin Li (Bachelor Student, Co-supervised with [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/))
+- Miss. Siqi Wang (Bachelor Student, Co-supervised with [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/))
+- Mr. Deyi Wang (Bachelor Research Intern)
+- Mr. Ao Yang (Bachelor Research Intern)
+- Miss. Zhe Wang (Bachelor Research Intern)
+
 
 <span class='anchor' id="academic-services"></span>
 
 # 💻 Academic Services 学术服务
 
+- Member of the Executive Committee for CCF TCIoT （中国计算机学会物联网专委会执行委员）
 - Reviewer for IEEE Transactions on Mobile Computing (CCF A)
 - Reviewer for IEEE Transactions on Parallel and Distributed Systems (CCF A)
 - Reviewer for IEEE Transactions on Theoretical Computer Science (CCF A)
