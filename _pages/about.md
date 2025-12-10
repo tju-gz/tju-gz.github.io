@@ -33,6 +33,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 # 🔥 News 新闻
 
+- *2025.12*: &nbsp;🎉🎉 Our paper on robot swarm collaborative SLAM has been accepted for publication in *IEEE INFOCOM*. Congratulations to Mr. Ge! 
 - *2025.05*: &nbsp;🎉🎉 I have officially joined Tianjin University as an Associate Researcher.
 - *2025.03*: &nbsp;🎉🎉 Our paper on edge-assisted robot swarm intelligence has been accepted for publication in *IEEE TMC*.  
 - *2024.04*: &nbsp;🎉🎉 We are delighted to share that our paper on RFID inventory systems has been accepted at *USENIX NSDI 2024*.  
