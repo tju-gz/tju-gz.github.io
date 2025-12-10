@@ -177,6 +177,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 # 🧑‍🏫 Students 学生
 
+- Mr. Zhengyang Cui (Master Student, Co-supervised with [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/))
 - Mr. Rui Ge (Ph.D, Student from [ICSLab](http://icslab.whu.edu.cn/english.html), Wuhan University)
 - Mr. Weiwei Zheng (Master Student)
 - Mr. Haobo Gao (Master Student, Co-supervised with [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html))
@@ -193,6 +194,7 @@ I have published full research papers on <span style="display: inline-block; bac
 # 💻 Academic Services 学术服务
 
 - Member of the Executive Committee for CCF TCIoT （中国计算机学会物联网专委会执行委员）
+- Reviewer for IEEE Transactions on Dependable and Secure Computing (CCF A)
 - Reviewer for IEEE Transactions on Mobile Computing (CCF A)
 - Reviewer for IEEE Transactions on Parallel and Distributed Systems (CCF A)
 - Reviewer for IEEE Transactions on Theoretical Computer Science (CCF A)
