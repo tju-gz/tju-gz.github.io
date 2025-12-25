@@ -50,7 +50,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 
 ### Conference Papers 会议论文
-1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
+1. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
 
     **<u>Zheng Gong</u>**, Zhenlin An, Donghui Dai, Jingyu Tong, Shuijie Long, Lei Yang
 
@@ -58,7 +58,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
     [[**Paper**](https://dl.acm.org/doi/10.1145/3636534.3649387)]
 
-2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">SIGCOMM 2022</span> Empowering Smart Buildings with Self-Sensing Concrete for  Structural Health Monitoring
+2. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">SIGCOMM 2022</span> Empowering Smart Buildings with Self-Sensing Concrete for  Structural Health Monitoring
 
     **<u>Zheng Gong</u><sup>‡</sup>**, Lubing Han<sup>‡</sup>, Zhenlin An, Lei Yang, Siqi Ding, Yu Xiang
 
@@ -66,7 +66,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
     [[**Paper**](https://dl.acm.org/doi/abs/10.1145/3544216.3544270)] [[**Video**](https://www.bilibili.com/video/BV1Cg411S7R8/)]
 
-3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2022 Demo</span> Constructing Smart Buildings with In-concrete Backscatter Networks
+3. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2022 Demo</span> Constructing Smart Buildings with In-concrete Backscatter Networks
 
     **<u>Zheng Gong</u>**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 
@@ -90,7 +90,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
     [[**Paper**](https://dl.acm.org/doi/10.1145/3603165.3607370)]
 
-6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
+6. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
 
     Donghui Dai, Zhenlin An, **<u>Zheng Gong</u>**, Qingrui Pan, Lei Yang
 
@@ -98,19 +98,19 @@ I have published full research papers on <span style="display: inline-block; bac
 
    [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)]
 
-7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
+7. <span style="display: inline-block; background-color: #17881f; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
 
     Zhimin Mei, Donghui Dai, Jingyu Tong, **<u>Zheng Gong</u>**, Lei Yang
 
    In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025 <span style="color: red;">(CCF-A Conference)</span>
    
-8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">UbiComp 2025</span> Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks
+8. <span style="display: inline-block; background-color: #17881f; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">UbiComp 2025</span> Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks
 
     Jingyu Tong, Donghui Dai, **<u>Zheng Gong</u>**, Lei Yang
 
    In Proc. of *ACM UbiComp/ISWC*, Espoo, Finland, Oct 14-17, 2025 <span style="color: red;">(CCF-A Conference)</span>
  
-9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+9. <span style="display: inline-block; background-color: #17881f; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
 
     Yuanhao Feng, Donghui Dai, Xiaopeng Zhao, Jingyu Tong, **<u>Zheng Gong</u>**, Lei Yang
 
@@ -118,7 +118,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
     [[**Paper**](https://www.computer.org/csdl/proceedings-article/percom/2025/355100a222/27fiz3K5BXa)]
 
-10. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">CIKM 2021 Demo</span> SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data
+10. <span style="display: inline-block; background-color: #17881f; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">CIKM 2021 Demo</span> SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data
 
     Kechun Zhao, Hui Li, **<u>Zheng Gong</u>**, Jiangtao Cui
 
