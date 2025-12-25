@@ -146,7 +146,17 @@ I have published full research papers on <span style="display: inline-block; bac
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<span class='anchor' id="honors-and-awards"></span>
+
+ <span class='anchor' id="fundings"></span>
+
+# 💰 Research Fundings 承担课题
+
+  <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;"> MOE </span> National Postdoctoral Overseas Talent Recruitment Program （国家博士后海外引才专项）, 2026-2028, RMB 900K, Principal Investigator
+ 
+ <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;"> NSFC </span> NSFC Young Scientists Fund （国家自然科学基金青年基金项目）, 2026-2028, RMB 300K, Principal Investigator
+
+
+ <span class='anchor' id="honors-and-awards"></span>
 
 # 🎖 Honors and Awards 荣誉奖项
 
