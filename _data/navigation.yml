@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "#publications"
 
+  - title: "Fundings"
+    url: "#fundings"
+
   - title: "Honors and Awards"
     url: "#honors-and-awards"
 
@@ -24,5 +27,5 @@ main:
   - title: "Academic Services"
     url: "#academic-services"
 
-  - title: "Demonstration Videos"
+  - title: "Videos"
     url: "#demonstration-videos"
