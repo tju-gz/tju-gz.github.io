@@ -68,7 +68,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 3. <span style="display: inline-block; background-color: #17881f; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2026</span> Nexus: Communication-Aware Role Differentiation for Adaptive Multi-Robot Exploration
    
-    Rui Ge<sup>#</sup>, Huanghuang Liang, **<u>Zheng Gong</u><sup>*</sup>**, Zhilong Zhang, Jianqi Ma, Chuang Hu, Dazhao Cheng, Xiaobo Zhou
+    Rui Ge<sup>#</sup>, Huanghuang Liang, **<u>Zheng Gong</u><sup>*</sup>**, Zhilong Zhang, Jianqi Ma, Chuang Hu<sup>*</sup>, Dazhao Cheng<sup>*</sup>, Xiaobo Zhou
 
    In Proc. of *IEEE INFOCOM*, Tokyo, Japan, May 18-21, 2026 <span style="color: red;">(CCF-A Conference)</span>
 
