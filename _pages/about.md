@@ -43,7 +43,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 <span class='anchor' id="publications"></span>
 
-# 📝 Publications 论文
+# 📝 Selected Publications 论文
 
 
 <sup>‡</sup>Co-first Author. <sup>*</sup>Corrersponding Author. <sup>#</sup> Students advised by me.
@@ -135,7 +135,40 @@ I have published full research papers on <span style="display: inline-block; bac
 
 ### Journal Articles 期刊论文
 
-1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation
+1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
+
+    Huan Yan, Jian Liu, Xiang Zhang, Zhi Liu, Bin Liu, Meng Li, **<u>Zheng Gong</u>**, Ming Gao, Fusang Zhang
+
+    In *IEEE Journal on Selected Areas in Communications*, 2026 <span style="color: red;">(CCF-A Journal)</span>
+
+
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications
+
+     Xing Gao, Xin Xie, Xiulong Liu, Zhe Peng, Xiaoyi Tao, Xinyu Tong, Chaokun Zhang, **<u>Zheng Gong</u>**, Jiancheng Chen, Sheng Chen, Keqiu Li
+
+    In *IEEE Transactions on Mobile Computing*, 2026 <span style="color: red;">(CCF-A Journal)</span>
+
+
+
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
+   
+     Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, Donghui Dai, **<u>Zheng Gong</u>**, Zhenlin An, Lei Yang
+
+    In *IEEE Transactions on Mobile Computing*, 2026 <span style="color: red;">(CCF-A Journal)</span>
+
+
+
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TC 2026</span> EDCL: An Efficient Dynamic Continual Learning Framework for IoT Systems
+
+     Kaixuan Zhang, Xiulong Liu, Ke Wang, Qixuan Cai, Xin Xie, Jiuwu Zhang, Jiancheng Chen, Caijun Zhang, Xinyu Tong, **<u>Zheng Gong</u>**, Keqiu Li
+
+    In *IEEE Transactions Computers*, 2026 <span style="color: red;">(CCF-A Journal)</span>
+
+    [[**Paper**]([https://ieeexplore.ieee.org/abstract/document/10918818](https://www.computer.org/csdl/journal/tc/5555/01/11389162/2dZTH3NgqBO))]
+   
+
+
+5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation
 
      Rui Ge<sup>#</sup>, Huanghuang Liang, **<u>Zheng Gong</u>**, Chuang Hu, Xiaobo Zhou, Dazhao Cheng
 
