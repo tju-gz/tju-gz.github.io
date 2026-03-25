@@ -160,7 +160,14 @@ I have published full research papers on <span style="display: inline-block; bac
 
     In *IEEE Internet of Things Journal*, 2026 <span style="color: red;">(SCI Q1 Journal)</span>
 
-2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> Physical-Semantic Aware Multimodal Facial Expression Recognition for Human-Centric IoT
+
+    Ke Wang, Dongxu Li, Xin Xie, Xiaoyi Tao, Xiulong Liu, **<u>Zheng Gong</u>**, Sheng Chen, Keqiu Li
+
+    In *IEEE Internet of Things Journal*, 2026 <span style="color: red;">(SCI Q1 Journal)</span>
+
+
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
 
     Huan Yan, Jian Liu, Xiang Zhang, Zhi Liu, Bin Liu, Meng Li, **<u>Zheng Gong</u>**, Ming Gao, Fusang Zhang
 
@@ -169,7 +176,7 @@ I have published full research papers on <span style="display: inline-block; bac
     [[**Paper**](https://ieeexplore.ieee.org/document/11424586)]
 
 
-3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications
 
      Xing Gao, Xin Xie, Xiulong Liu, Zhe Peng, Xiaoyi Tao, Xinyu Tong, Chaokun Zhang, **<u>Zheng Gong</u>**, Jiancheng Chen, Sheng Chen, Keqiu Li
 
@@ -179,7 +186,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 
 
-4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
+5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
    
      Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, Donghui Dai, **<u>Zheng Gong</u>**, Zhenlin An, Lei Yang
 
@@ -189,7 +196,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 
 
-5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TC 2026</span> EDCL: An Efficient Dynamic Continual Learning Framework for IoT Systems
+6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TC 2026</span> EDCL: An Efficient Dynamic Continual Learning Framework for IoT Systems
 
      Kaixuan Zhang, Xiulong Liu, Ke Wang, Qixuan Cai, Xin Xie, Jiuwu Zhang, Jiancheng Chen, Caijun Zhang, Xinyu Tong, **<u>Zheng Gong</u>**, Keqiu Li
 
@@ -199,7 +206,7 @@ I have published full research papers on <span style="display: inline-block; bac
    
 
 
-5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation
 
      Rui Ge<sup>#</sup>, Huanghuang Liang, **<u>Zheng Gong</u>**, Chuang Hu, Xiaobo Zhou, Dazhao Cheng
 
