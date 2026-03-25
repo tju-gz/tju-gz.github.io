@@ -194,7 +194,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
     In *IEEE Transactions Computers*, 2026 <span style="color: red;">(CCF-A Journal)</span>
 
-    [[**Paper**]([https://ieeexplore.ieee.org/abstract/document/10918818](https://www.computer.org/csdl/journal/tc/5555/01/11389162/2dZTH3NgqBO))]
+    [[**Paper**](https://ieeexplore.ieee.org/document/11389162)]
    
 
 
