@@ -135,16 +135,23 @@ I have published full research papers on <span style="display: inline-block; bac
     [[**Paper**](https://dl.acm.org/doi/10.1145/3459637.3481975)]
 
 
+
 ### Journal Articles 期刊论文
 
-1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
+1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> ARGUS: Cross-Antenna Channel Estimation and Intelligent Antenna Selection for Massive MIMO
+
+    Qibai Chen, Jianbo Hou, Haobo Gao, **<u>Zheng Gong</u>****<sup>*</sup>**, Jingyu Tong**<sup>*</sup>**, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li
+
+    In *IEEE Internet of Things Journal*, 2026 <span style="color: red;">(SCI Q1 Journal)</span>
+
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
 
     Huan Yan, Jian Liu, Xiang Zhang, Zhi Liu, Bin Liu, Meng Li, **<u>Zheng Gong</u>**, Ming Gao, Fusang Zhang
 
     In *IEEE Journal on Selected Areas in Communications*, 2026 <span style="color: red;">(CCF-A Journal)</span>
 
 
-2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications
 
      Xing Gao, Xin Xie, Xiulong Liu, Zhe Peng, Xiaoyi Tao, Xinyu Tong, Chaokun Zhang, **<u>Zheng Gong</u>**, Jiancheng Chen, Sheng Chen, Keqiu Li
 
@@ -152,7 +159,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 
 
-3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
    
      Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, Donghui Dai, **<u>Zheng Gong</u>**, Zhenlin An, Lei Yang
 
@@ -160,7 +167,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 
 
-4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TC 2026</span> EDCL: An Efficient Dynamic Continual Learning Framework for IoT Systems
+5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TC 2026</span> EDCL: An Efficient Dynamic Continual Learning Framework for IoT Systems
 
      Kaixuan Zhang, Xiulong Liu, Ke Wang, Qixuan Cai, Xin Xie, Jiuwu Zhang, Jiancheng Chen, Caijun Zhang, Xinyu Tong, **<u>Zheng Gong</u>**, Keqiu Li
 
