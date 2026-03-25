@@ -130,13 +130,14 @@ I have published full research papers on <span style="display: inline-block; bac
     [[**Paper**](https://ieeexplore.ieee.org/abstract/document/11018730/)]   
    
 
-11. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
 
-   Donghui Dai, Zhenlin An, **<u>Zheng Gong</u>**, Qingrui Pan, Lei Yang
+11. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
 
-   In Proc. of *USENIX NSDI*, Santa Clara, USA, Apr 16-18, 2024 <span style="color: red;">(CCF-A Conference)</span>
+    Donghui Dai, Zhenlin An, **<u>Zheng Gong</u>**, Qingrui Pan, Lei Yang
 
-   [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)]
+    In Proc. of *USENIX NSDI*, Santa Clara, USA, Apr 16-18, 2024 <span style="color: red;">(CCF-A Conference)</span>
+
+    [[**Paper**](https://www.usenix.org/conference/nsdi24/presentation/dai)]   
 
 
 12. <span style="display: inline-block; background-color: #17881f; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">CIKM 2021 Demo</span> SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data
