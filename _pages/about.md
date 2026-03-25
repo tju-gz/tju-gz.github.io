@@ -34,7 +34,7 @@ I have published full research papers on <span style="display: inline-block; bac
 # 🔥 News 新闻
 
 - *2026.03*: &nbsp;🎉🎉 Our paper on polar code-enhanced robust RFID protocol has been accepted for publication at *IEEE SECON 2026*.
-- *2026.03*: &nbsp;🎉🎉 Our several papers are accepted for publication in *IEEE JSAC*, *IEEE TMC*, and *IEEE TC*.
+- *2026.03*: &nbsp;🎉🎉 Our several papers are accepted for publication in *IEEE JSAC*, *IEEE TMC*, *IEEE TC*, and *IEEE IoT-J*.
 - *2025.12*: &nbsp;🎉🎉 I have been officially funded as the National Postdoctoral Overseas Talent Recruitment Program （国家博士后海外引才专项）!
 - *2025.12*: &nbsp;🎉🎉 Our paper on robot swarm collaborative SLAM has been accepted for publication in *IEEE INFOCOM*. Congratulations to Mr. Ge!
 - *2025.08*: &nbsp;🎉🎉 Our research has been funded by the Young Scientists Fund of NSFC (国家自然科学基金青年基金项目)!
@@ -140,7 +140,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> ARGUS: Cross-Antenna Channel Estimation and Intelligent Antenna Selection for Massive MIMO
 
-    Qibai Chen, Jianbo Hou, Haobo Gao, **<u>Zheng Gong</u><sup>*</sup>**, Jingyu Tong**<sup>*</sup>**, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li
+    Qibai Chen, Jianbo Hou, Haobo Gao, Jingyu Tong**<sup>*</sup>**, **<u>Zheng Gong</u><sup>*</sup>**, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li
 
     In *IEEE Internet of Things Journal*, 2026 <span style="color: red;">(SCI Q1 Journal)</span>
 
