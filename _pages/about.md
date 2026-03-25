@@ -132,7 +132,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 11. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
 
-    Donghui Dai, Zhenlin An, **<u>Zheng Gong</u>**, Qingrui Pan, Lei Yang
+   Donghui Dai, Zhenlin An, **<u>Zheng Gong</u>**, Qingrui Pan, Lei Yang
 
    In Proc. of *USENIX NSDI*, Santa Clara, USA, Apr 16-18, 2024 <span style="color: red;">(CCF-A Conference)</span>
 
