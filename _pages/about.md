@@ -140,7 +140,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> ARGUS: Cross-Antenna Channel Estimation and Intelligent Antenna Selection for Massive MIMO
 
-    Qibai Chen, Jianbo Hou, Haobo Gao, **<u>Zheng Gong</u>****<sup>*</sup>**, Jingyu Tong**<sup>*</sup>**, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li
+    Qibai Chen, Jianbo Hou, Haobo Gao, **<u>Zheng Gong</u><sup>*</sup>**, Jingyu Tong**<sup>*</sup>**, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li
 
     In *IEEE Internet of Things Journal*, 2026 <span style="color: red;">(SCI Q1 Journal)</span>
 
