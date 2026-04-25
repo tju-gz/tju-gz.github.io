@@ -33,6 +33,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 # 🔥 News 新闻
 
+- *2026.04*: &nbsp;🎉🎉 I have been selected as the *ACM MobiSys 2026 Rising Star Award*!
 - *2026.03*: &nbsp;🎉🎉 Our paper on polar code-enhanced robust RFID protocol has been accepted for publication at *IEEE SECON 2026*.
 - *2026.03*: &nbsp;🎉🎉 Our several papers are accepted for publication in *IEEE JSAC*, *IEEE TMC*, *IEEE TC*, and *IEEE IoT-J*.
 - *2025.12*: &nbsp;🎉🎉 I have been officially funded as the National Postdoctoral Overseas Talent Recruitment Program （国家博士后海外引才专项）!
@@ -237,6 +238,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 # 🎖 Honors and Awards 荣誉奖项
 
+- *2026.04* Rising Star Award, ACM MobiSys 2026
 - *2022.10* Best Demo Award Runner-up (2/20), ACM MobiCom 2022
 
 <span class='anchor' id="educations"></span>
