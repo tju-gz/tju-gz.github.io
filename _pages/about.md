@@ -155,20 +155,36 @@ I have published full research papers on <span style="display: inline-block; bac
 
 ### Journal Articles 期刊论文
 
-1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> ARGUS: Cross-Antenna Channel Estimation and Intelligent Antenna Selection for Massive MIMO
+
+1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TDSC 2026</span> Robust and Explainable Federated Learning via Semantic Concept Bottlenecks: A Security-Enhanced Approach
+
+    Xiaoyi Tao, Jiaxin Shen, Liangzhi Li, Xin Xie, Sheng Chen, **<u>Zheng Gong</u>**, Xiulong Liu, Wenxin Li, Keqiu Li
+
+    In *IEEE Transactions on Dependable and Secure Computing*, 2026 <span style="color: red;">(CCF-A Journal)</span>
+
+
+
+2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> Enable Scalable and Secure ISAC-WPT in Wireless Scenarios
+
+    Xiufeng Liu, Xiulong Liu, Xin Xie, Ke Wang, Jiuwu Zhang, Xinyu Tong, Zheng Gong, Keqiu Li
+
+     In *IEEE Journal on Selected Areas in Communications*, 2026 <span style="color: red;">(CCF-A Journal)</span>
+
+
+3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> ARGUS: Cross-Antenna Channel Estimation and Intelligent Antenna Selection for Massive MIMO
 
     Qibai Chen, Jianbo Hou, Haobo Gao, Jingyu Tong**<sup>*</sup>**, **<u>Zheng Gong</u><sup>*</sup>**, Sheng Chen, Xinyu Tong, Xin Xie, Xiulong Liu, Keqiu Li
 
     In *IEEE Internet of Things Journal*, 2026 <span style="color: red;">(SCI Q1 Journal)</span>
 
-2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> Physical-Semantic Aware Multimodal Facial Expression Recognition for Human-Centric IoT
+4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IoT-J 2026</span> Physical-Semantic Aware Multimodal Facial Expression Recognition for Human-Centric IoT
 
     Ke Wang, Dongxu Li, Xin Xie, Xiaoyi Tao, Xiulong Liu, **<u>Zheng Gong</u>**, Sheng Chen, Keqiu Li
 
     In *IEEE Internet of Things Journal*, 2026 <span style="color: red;">(SCI Q1 Journal)</span>
 
 
-3. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
+5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> DiffLoc+: Towards Robust WiFi Hidden Camera Localization Based on Electromagnetic Diffraction
 
     Huan Yan, Jian Liu, Xiang Zhang, Zhi Liu, Bin Liu, Meng Li, **<u>Zheng Gong</u>**, Ming Gao, Fusang Zhang
 
@@ -177,7 +193,7 @@ I have published full research papers on <span style="display: inline-block; bac
     [[**Paper**](https://ieeexplore.ieee.org/document/11424586)]
 
 
-4. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications
+6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> CLBP: A Cross-Modal Loss-Tolerant Beam Prediction Framework for V2V mmWave Communications
 
      Xing Gao, Xin Xie, Xiulong Liu, Zhe Peng, Xiaoyi Tao, Xinyu Tong, Chaokun Zhang, **<u>Zheng Gong</u>**, Jiancheng Chen, Sheng Chen, Keqiu Li
 
@@ -187,7 +203,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 
 
-5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
    
      Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, Donghui Dai, **<u>Zheng Gong</u>**, Zhenlin An, Lei Yang
 
@@ -197,7 +213,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 
 
-6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TC 2026</span> EDCL: An Efficient Dynamic Continual Learning Framework for IoT Systems
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TC 2026</span> EDCL: An Efficient Dynamic Continual Learning Framework for IoT Systems
 
      Kaixuan Zhang, Xiulong Liu, Ke Wang, Qixuan Cai, Xin Xie, Jiuwu Zhang, Jiancheng Chen, Caijun Zhang, Xinyu Tong, **<u>Zheng Gong</u>**, Keqiu Li
 
@@ -207,7 +223,7 @@ I have published full research papers on <span style="display: inline-block; bac
    
 
 
-7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation
+9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation
 
      Rui Ge<sup>#</sup>, Huanghuang Liang, **<u>Zheng Gong</u>**, Chuang Hu, Xiaobo Zhou, Dazhao Cheng
 
@@ -228,6 +244,9 @@ I have published full research papers on <span style="display: inline-block; bac
  <span class='anchor' id="fundings"></span>
 
 # 💰 Research Fundings 承担课题
+
+
+  <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;"> Tianjin S&T </span> Tianjin Overseas Postdoctoral Research Program （天津市海外来津博士后科研专项）, 2026-2028, RMB 400K, Principal Investigator
 
   <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;"> MOE </span> National Postdoctoral Overseas Talent Recruitment Program （国家博士后海外引才专项）, 2026-2028, RMB 900K, Principal Investigator
  
