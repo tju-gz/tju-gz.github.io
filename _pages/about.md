@@ -166,7 +166,7 @@ I have published full research papers on <span style="display: inline-block; bac
 
 2. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">JSAC 2026</span> Enable Scalable and Secure ISAC-WPT in Wireless Scenarios
 
-    Xiufeng Liu, Xiulong Liu, Xin Xie, Ke Wang, Jiuwu Zhang, Xinyu Tong, Zheng Gong, Keqiu Li
+    Xiufeng Liu, Xiulong Liu, Xin Xie, Ke Wang, Jiuwu Zhang, Xinyu Tong, **<u>Zheng Gong</u>**, Keqiu Li
 
      In *IEEE Journal on Selected Areas in Communications*, 2026 <span style="color: red;">(CCF-A Journal)</span>
 
