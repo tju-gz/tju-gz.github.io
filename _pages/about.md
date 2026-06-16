@@ -75,7 +75,16 @@ I have published full research papers on <span style="display: inline-block; bac
 
    In Proc. of *IEEE INFOCOM*, Tokyo, Japan, May 18-21, 2026 <span style="color: red;">(CCF-A Conference)</span>
 
-4. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2022 Demo</span> Constructing Smart Buildings with In-concrete Backscatter Networks
+4. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiSys 2026 Rising Stars Fourm</span> Resilient Wireless Intelligence for Communication-Constrained Environments
+
+    **<u>Zheng Gong</u>**
+
+    In Proc. of *ACM MobiSys*, Cambridge, UK, June 21-25, 2026. <span style="color: red;">(CCF-B Conference, **Rising Star Award**)</span>
+
+    [[**Paper**](https://dl.acm.org/doi/abs/10.1145/3812835.3814809)]  
+
+
+5. <span style="display: inline-block; background-color: #eb2513; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2022 Demo</span> Constructing Smart Buildings with In-concrete Backscatter Networks
 
     **<u>Zheng Gong</u>**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 
